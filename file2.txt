@@ -1,0 +1,4 @@
+git init
+vi file2.txt
+git add .
+git commit -m"second"
