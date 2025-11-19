@@ -1,4 +1,10 @@
-git init
-vi file1.txt
-git add .
-git commit -m"first"
+1
+2
+3
+3
+4
+
+5
+5
+y
+5hatehndg
