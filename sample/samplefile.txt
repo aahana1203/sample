@@ -1,0 +1,8 @@
+this is a sample file in the directory sample
+hi 
+i am 
+123
+345
+456
+6678999
+8999889
